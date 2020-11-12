@@ -1,13 +1,3 @@
-package main
- 
-import (
-    "fmt"
-    "net"
-    "encoding/binary"
-    "errors"
-    "os"
-    "time"
-    "log"
 )
  
 func main() {
